@@ -68,5 +68,4 @@ The factors and economic engineering functions used in this project are defined 
 3. **Company Valuation**: Determine the purchase price of the company in 2022 to ensure an annual profit of at least $250,000 (in base year dollars).
 
 
-Good luck and happy forecasting!
 
