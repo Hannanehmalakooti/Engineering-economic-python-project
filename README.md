@@ -23,7 +23,7 @@ The data is provided in the `data.xlsx` file, which includes the following colum
 - Price of Final Product (per unit, per year)
 
 The main goal of this project is to determine the year until which it is economically viable to maintain the company. This requires predicting prices and costs for the upcoming years until 2050. The following tasks outline the steps to be taken to achieve this goal.
-
+The factors and economic engineering functions used in this project are defined in the `factors.py` file.
 ## Project Tasks
 
 ### Data Preprocessing
